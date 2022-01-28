@@ -1299,6 +1299,45 @@
       "latitude": "84.5635",
       "longitude": "-92.6138",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg"
+    },
+    {
+      "name": "Tessie Daugherty",
+      "dob": "1970-1-9",
+      "email": "Tessie77@gmail.com",
+      "username": "Tessie.Daugherty50",
+      "password": "lRpG48LXvj6qTiu",
+      "phone": "708-618-4407 x750",
+      "streetaddress": "59504 Beahan Alley",
+      "citystatezip": "East Trehaven, CA 62810",
+      "latitude": "28.5646",
+      "longitude": "117.5575",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg"
+    },
+    {
+      "name": "Deangelo Hodkiewicz",
+      "dob": "1978-5-11",
+      "email": "Deangelo_Hodkiewicz@hotmail.com",
+      "username": "Deangelo.Hodkiewicz",
+      "password": "AM3WxDoyka8p3EQ",
+      "phone": "758.707.7824 x68509",
+      "streetaddress": "993 Ron Wall",
+      "citystatezip": "North Marisol, WA 53295",
+      "latitude": "30.0515",
+      "longitude": "50.9154",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ahmadajmi/128.jpg"
+    },
+    {
+      "name": "Cindy Erdman",
+      "dob": "1978-10-3",
+      "email": "Cindy_Erdman@gmail.com",
+      "username": "Cindy.Erdman63",
+      "password": "NKjSK_u1VuRzhnV",
+      "phone": "565-645-3729 x911",
+      "streetaddress": "6323 Dach Pass",
+      "citystatezip": "East Aletha, OH 39799",
+      "latitude": "10.2057",
+      "longitude": "-115.2354",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/francis_vega/128.jpg"
     }
   ]
 }
